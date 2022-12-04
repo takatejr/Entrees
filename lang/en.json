@@ -1,0 +1,11 @@
+{
+	"nav": {
+		"home": "Home",
+		"entries": "Entries",
+		"practice": "Practice"
+	},
+	"main": {
+		"text1": "Find Experience",
+		"text2": "You can find your place without formal education"
+	}
+}

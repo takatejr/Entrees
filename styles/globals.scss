@@ -6,19 +6,19 @@
 @import "./styles/normalize";
 
 :root {
-  --main-theme-color: #fafafa;
+  --main-theme-color: whitesmoke;
   --main-text-color: #041B29;
 
-  --aside-theme-color: #041B29;
-  --aside-text-color: #fafafa;
+  --aside-theme-color: whitesmoke;
+  --aside-text-color: #041B29;
 }
 
 .dark {
-  --main-theme-color: black;
-  --main-text-color: #fafafa;
+  --main-theme-color: #041B29;
+  --main-text-color: whitesmoke;
 
-  --aside-theme-color: blue;
-  --aside-text-color: #fafafa;
+  --aside-theme-color: #041B29;
+  --aside-text-color: whitesmokew;
 }
 
 *, *::before, *::after {
