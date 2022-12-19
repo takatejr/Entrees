@@ -9,7 +9,7 @@ export type navbarItemProps = {
 
 const NAVBAR_ITEMS: navbarItemProps[] = [
 	{ link: "/", title: "Home" },
-	{ link: "/find-entries", title: "Entries" },
+	{ link: "/entries", title: "Entries" },
 	{ link: "/find-practice", title: "Practice" },
 ];
 
